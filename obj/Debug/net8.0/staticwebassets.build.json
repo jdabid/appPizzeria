@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Dh2ffe7ieuy1DygfdVsHSqkoLElTAaLJ3di037+iKP0=",
+  "Source": "app-costosopizza",
+  "BasePath": "_content/app-costosopizza",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
